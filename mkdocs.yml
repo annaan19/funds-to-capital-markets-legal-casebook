@@ -1,0 +1,14 @@
+site_name: Funds to Capital Markets Legal Casebook
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Methodology: 00-methodology.md
+  - Sources: 01-regulatory-source-register.md
+  - Risk Taxonomy: 02-common-risk-taxonomy.md
+  - Module A:
+      - Case Scenario: module-a-public-fund-suitability/00-case-scenario.md
+  - Module B:
+      - Case Scenario: module-b-private-fund-lifecycle/00-case-scenario.md
+  - Module C:
+      - Case Scenario: module-c-capital-markets-ipo/00-case-scenario.md
